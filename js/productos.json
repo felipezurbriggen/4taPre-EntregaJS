@@ -1,0 +1,182 @@
+[
+    {
+        "id": "vianda-01",
+        "titulo": "Tallarines con tuco (Aprox. 400g)",
+        "imagen": "./img/vianda01.jpg",
+        "categoria": {
+            "nombre": "Viandas",
+            "id": "viandas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "vianda-02",
+        "titulo": "Guiso (Aprox. 450g)",
+        "imagen": "./img/vianda02.jpg",
+        "categoria": {
+            "nombre": "Viandas",
+            "id": "viandas"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "vianda-03",
+        "titulo": "Tallarines con crema parisien",
+        "imagen": "./img/vianda03.jpg",
+        "categoria": {
+            "nombre": "Viandas",
+            "id": "viandas"
+        },
+        "precio": 2300
+    },
+    {
+        "id": "vianda-04",
+        "titulo": "Canelones con salsa mixta",
+        "imagen": "./img/vianda04.webp",
+        "categoria": {
+            "nombre": "Viandas",
+            "id": "viandas"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "vianda-05",
+        "titulo": "Ravioles (Aprox. 450g)",
+        "imagen": "./img/vianda05.webp",
+        "categoria": {
+            "nombre": "Viandas",
+            "id": "viandas"
+        },
+        "precio": 2300
+    },
+    {
+        "id": "preferido-01",
+        "titulo": "Pastel de papa",
+        "imagen": "./img/preferido01.jpg",
+        "categoria": {
+            "nombre": "Preferidos",
+            "id": "preferidos"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "preferido-02",
+        "titulo": "Milanesa con papas rústicas",
+        "imagen": "./img/preferido02.jpg",
+        "categoria": {
+            "nombre": "Preferidos",
+            "id": "preferidos"
+        },
+        "precio": 4500
+    },
+    {
+        "id": "preferido-03",
+        "titulo": "Milanesa con fideos",
+        "imagen": "./img/preferido03.jpg",
+        "categoria": {
+            "nombre": "Preferidos",
+            "id": "preferidos"
+        },
+        "precio": 3900
+    },
+    {
+        "id": "preferido-04",
+        "titulo": "Milanesa napolitana",
+        "imagen": "./img/preferido04.webp",
+        "categoria": {
+            "nombre": "Preferidos",
+            "id": "preferidos"
+        },
+        "precio": 4200
+    },
+    {
+        "id": "preferido-05",
+        "titulo": "Milanesa con cheddar",
+        "imagen": "./img/preferido05.jpg",
+        "categoria": {
+            "nombre": "Preferidos",
+            "id": "preferidos"
+        },
+        "precio": 3900
+    },
+    {
+        "id": "preferido-06",
+        "titulo": "Pollo con crema y papas",
+        "imagen": "./img/preferido06.jpg",
+        "categoria": {
+            "nombre": "Preferidos",
+            "id": "preferidos"
+        },
+        "precio": 4300
+    },
+    {
+        "id": "preferido-07",
+        "titulo": "Hamburguesa con ensalada rusa",
+        "imagen": "./img/preferido07.jpg",
+        "categoria": {
+            "nombre": "Preferidos",
+            "id": "preferidos"
+        },
+        "precio": 3800
+    },
+    {
+        "id": "preferido-08",
+        "titulo": "Asado",
+        "imagen": "./img/preferido08.jpg",
+        "categoria": {
+            "nombre": "Preferidos",
+            "id": "preferidos"
+        },
+        "precio": 5300
+    },
+    {
+        "id": "dieta-01",
+        "titulo": "Ensalada completa",
+        "imagen": "./img/dieta01.jpg",
+        "categoria": {
+            "nombre": "Dietas",
+            "id": "dietas"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "dieta-02",
+        "titulo": "Tarta de verdura",
+        "imagen": "./img/dieta02.jpg",
+        "categoria": {
+            "nombre": "Dietas",
+            "id": "dietas"
+        },
+        "precio": 3400
+    },
+    {
+        "id": "dieta-03",
+        "titulo": "Pollo con ensalada de lechuga y tomate",
+        "imagen": "./img/dieta03.avif",
+        "categoria": {
+            "nombre": "Dietas",
+            "id": "dietas"
+        },
+        "precio": 3800
+    },
+    {
+        "id": "dieta-04",
+        "titulo": "Hamburguesa de remolacha",
+        "imagen": "./img/dieta04.jpg",
+        "categoria": {
+            "nombre": "Dietas",
+            "id": "dietas"
+        },
+        "precio": 3100
+    },
+    {
+        "id": "dieta-05",
+        "titulo": "Hamburguesa de lentejas",
+        "imagen": "./img/dieta05.jpg",
+        "categoria": {
+            "nombre": "Dietas",
+            "id": "dietas"
+        },
+        "precio": 3000
+    }
+]
